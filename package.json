@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "serve": "^11.1.0"
+    "serve": "^11.1.0",
+    "workbox-sw": "^4.3.1"
   }
 }
